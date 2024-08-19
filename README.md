@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Gourav Sen<br>A passionate frontend developer from India.<br>🌱 I’m currently learning Mern-stack Development<br>📫 How to reach me sen9165812790@gmail.com
+Hi 👋, I'm Gourav Sen<br>A passionate frontend developer from India.<br> 📫 How to reach me sen9165812790@gmail.com
 
 
 ## 🌐 Socials:
